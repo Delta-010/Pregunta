@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffcccb;
+}
+
+.contenedor {
+    margin-top: 50px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.botones {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#si-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#no-btn {
+    background-color: #FF0000;
+    color: white;
+}
